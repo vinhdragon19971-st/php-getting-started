@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-condimemay
+web: vendor/bin/heroku-php-apache2
