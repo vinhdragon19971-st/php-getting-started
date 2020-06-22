@@ -1,0 +1,5 @@
+Motion toys = jackets
+Brain teaser toy = Accessories
+Transport toy = Shoes
+Accessories/utensils toy = coats
+Others toy = T-Shirt
