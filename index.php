@@ -108,7 +108,7 @@
                        
                        <h3><a href="#">Best Offer</a></h3>
                        
-                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                       <p>Dedicated service, enthusiastic advice. </p>
                        
                    </div><!-- box same-height Finish -->
                    
@@ -126,7 +126,7 @@
                        
                        <h3><a href="#">Best Prices</a></h3>
                        
-                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                       <p>Best price products in the market.</p>
                        
                    </div><!-- box same-height Finish -->
                    
@@ -144,7 +144,7 @@
                        
                        <h3><a href="#">100% Original</a></h3>
                        
-                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                       <p>Pure products are non-toxic, clear treatment.</p>
                        
                    </div><!-- box same-height Finish -->
                    

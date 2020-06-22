@@ -80,7 +80,7 @@ if(isset($_GET['pro_id'])){
                    ?>
                
                </a>
-               <a href="../checkout.php"> <?php items(); ?> Items In Your Cart | Total Price: <?php total_price(); ?> </a>
+               <a href="checkout.php"> <?php items(); ?> Items In Your Cart | Total Price: <?php total_price(); ?> </a>
                
            </div><!-- col-md-6 offer Finish -->
            
@@ -133,8 +133,8 @@ if(isset($_GET['pro_id'])){
                
                <a href="../index.php" class="navbar-brand home"><!-- navbar-brand home Begin -->
                    
-                   <img src="images/ecom-store-logo.png" alt="M-dev-Store Logo" class="hidden-xs">
-                   <img src="images/ecom-store-logo-mobile.png" alt="M-dev-Store Logo Mobile" class="visible-xs">
+                   <img src="images/ATNToy.png" style="width: 55px" alt="M-dev-Store Logo" class="hidden-xs">
+                   <img src="images/ATNToy.png" style="width: 55px" alt="M-dev-Store Logo Mobile" class="visible-xs">
                    
                </a><!-- navbar-brand home Finish -->
                
@@ -182,7 +182,7 @@ if(isset($_GET['pro_id'])){
                    
                </div><!-- padding-nav Finish -->
                
-               <a href="cart.php" class="btn navbar-btn btn-primary right"><!-- btn navbar-btn btn-primary Begin -->
+               <a href="../cart.php" class="btn navbar-btn btn-primary right"><!-- btn navbar-btn btn-primary Begin -->
                    
                    <i class="fa fa-shopping-cart"></i>
                    
